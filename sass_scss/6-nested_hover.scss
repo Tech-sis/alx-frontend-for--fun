@@ -1,7 +1,7 @@
 /* Assigns Text color #FF0000 to button tags, on hover over button tags, text color should change to #00FF00 */
 button {
   color: #FF0000;
-  :hover {
-	color: #00FF00;
-  }
+}
+button:hover {
+  color: #00FF00;
 }
